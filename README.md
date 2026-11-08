@@ -95,9 +95,6 @@ Kopi dan Nyemil adalah aplikasi pemesanan kopi dan camilan berbasis Android yang
 ### Home
 ![Home](home.png)
 
-### Detail Produk
-![Detail Produk](detailproduk.png)
-
 ### Alamat Pengiriman
 ![Alamat Pengiriman](alamatpengiriman.png)
 
