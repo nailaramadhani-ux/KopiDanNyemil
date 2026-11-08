@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80">
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#F5EFE6"
+        android:pathData="M40,40m-36,0a36,36 0 1,0 72,0a36,36 0 1,0 -72,0" />
+
+    <!-- Cup Body (Clear Glass Cup for Matcha) -->
+    <path
+        android:fillColor="#558B2F"
+        android:pathData="M26,26L30,68C30.2,70.2 32,72 34.2,72H45.8C48,72 49.8,70.2 50,68L54,26H26Z" />
+
+    <!-- Cream / Foam Top -->
+    <path
+        android:fillColor="#FAF5EF"
+        android:pathData="M26,26C26,26 30,30 35,27C40,24 44,28 48,26C52,24 54,26 54,26L53,36H27L26,26Z" />
+
+    <!-- Ice Cubes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.7"
+        android:pathData="M32,38h8v8h-8z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.7"
+        android:pathData="M41,44h7v7h-7z" />
+
+    <!-- Straw -->
+    <path
+        android:fillColor="#33691E"
+        android:pathData="M43,10h4v16h-4z" />
+</vector>

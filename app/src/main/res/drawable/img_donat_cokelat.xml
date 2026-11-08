@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80">
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#F5EFE6"
+        android:pathData="M40,40m-36,0a36,36 0 1,0 72,0a36,36 0 1,0 -72,0" />
+
+    <!-- Donut Dough (Golden Brown) -->
+    <path
+        android:fillColor="#D4A373"
+        android:pathData="M40,16C26.7,16 16,26.7 16,40C16,53.3 26.7,64 40,64C53.3,64 64,53.3 64,40C64,26.7 53.3,16 40,16ZM40,48C35.6,48 32,44.4 32,40C32,35.6 35.6,32 40,32C44.4,32 48,35.6 48,40C48,44.4 44.4,48 40,48Z" />
+
+    <!-- Chocolate Glaze -->
+    <path
+        android:fillColor="#3D2314"
+        android:pathData="M40,18C30,18 20,24 18,34C20,38 23,37 25,40C27,43 30,38 34,42C38,46 39,40 43,44C47,48 52,43 55,42C58,41 60,45 62,38C61,26 51,18 40,18ZM40,46C36.7,46 34,43.3 34,40C34,36.7 36.7,34 40,34C43.3,34 46,36.7 46,40C46,43.3 43.3,46 40,46Z" />
+
+    <!-- Sprinkles -->
+    <path
+        android:fillColor="#E8C4A0"
+        android:pathData="M28,26h5v2h-5z" />
+    <path
+        android:fillColor="#B85C38"
+        android:pathData="M46,24h5v2h-5z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,34h4v2h-4z" />
+    <path
+        android:fillColor="#E8C4A0"
+        android:pathData="M52,32h5v2h-5z" />
+</vector>

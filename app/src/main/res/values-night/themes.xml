@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Dark theme fallback to light theme palette for consistency in coffee shop design -->
+    <style name="Theme.KopiDanNyemil" parent="Base.Theme.KopiDanNyemil" />
+</resources>

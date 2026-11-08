@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80">
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#F5EFE6"
+        android:pathData="M40,40m-36,0a36,36 0 1,0 72,0a36,36 0 1,0 -72,0" />
+
+    <!-- Bread Base Body -->
+    <path
+        android:fillColor="#5C3D2E"
+        android:pathData="M18,48C18,32 28,24 40,24C52,24 62,32 62,48C62,56 54,60 40,60C26,60 18,56 18,48Z" />
+
+    <!-- Bread Top Crust (Golden) -->
+    <path
+        android:fillColor="#D4A373"
+        android:pathData="M22,46C22,34 30,26 40,26C50,26 58,34 58,46C54,44 48,46 40,46C32,46 26,44 22,46Z" />
+
+    <!-- Slash Cuts (Sourdough scored pattern) -->
+    <path
+        android:fillColor="#3D2314"
+        android:pathData="M30,32C32,35 34,39 36,43h-3C31,39 29,35 27,32Z" />
+    <path
+        android:fillColor="#3D2314"
+        android:pathData="M39,30C41,34 43,38 45,43h-3C39,38 37,34 35,30Z" />
+    <path
+        android:fillColor="#3D2314"
+        android:pathData="M48,32C50,35 52,39 54,43h-3C49,39 47,35 45,32Z" />
+</vector>

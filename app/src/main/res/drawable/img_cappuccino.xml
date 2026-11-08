@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80">
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#F5EFE6"
+        android:pathData="M40,40m-36,0a36,36 0 1,0 72,0a36,36 0 1,0 -72,0" />
+
+    <!-- Ceramic Cup Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,32h36v20c0,11 -9,20 -20,20s-20,-9 -20,-20v-20z" />
+    <!-- Handle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,36h8c3.3,0 6,2.7 6,6v0c0,3.3 -2.7,6 -6,6h-8v-12z" />
+
+    <!-- Foam/Coffee Surface -->
+    <path
+        android:fillColor="#5C3D2E"
+        android:pathData="M22,32a18,6 0 1,0 36,0a18,6 0 1,0 -36,0" />
+
+    <!-- Heart Latte Art (Foam) -->
+    <path
+        android:fillColor="#FAF5EF"
+        android:pathData="M40,34.5C38,32 34,32 34,34.5C34,37 38,39 40,41C42,39 46,37 46,34.5C46,32 42,32 40,34.5Z" />
+
+    <!-- Saucer -->
+    <path
+        android:fillColor="#FAF5EF"
+        android:pathData="M16,56h48v4h-48z" />
+</vector>

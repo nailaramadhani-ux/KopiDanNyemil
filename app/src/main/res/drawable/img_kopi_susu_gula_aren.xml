@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80">
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#F5EFE6"
+        android:pathData="M40,40m-36,0a36,36 0 1,0 72,0a36,36 0 1,0 -72,0" />
+
+    <!-- Cup Body (Clear Iced Coffee Cup) -->
+    <path
+        android:fillColor="#5C3D2E"
+        android:pathData="M26,26L30,68C30.2,70.2 32,72 34.2,72H45.8C48,72 49.8,70.2 50,68L54,26H26Z" />
+
+    <!-- Gula Aren Layer (Bottom) -->
+    <path
+        android:fillColor="#3D2314"
+        android:pathData="M29.5,62L30,68C30.2,70.2 32,72 34.2,72H45.8C48,72 49.8,70.2 50,68L50.5,62H29.5Z" />
+
+    <!-- Milk Layer (Middle swirl) -->
+    <path
+        android:fillColor="#FAF5EF"
+        android:pathData="M27.5,42C32,45 37,39 42,43C47,47 50,41 52.5,42L50.5,62H29.5L27.5,42Z" />
+
+    <!-- Ice Cubes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.7"
+        android:pathData="M33,30h8v8h-8z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.7"
+        android:pathData="M41,34h7v7h-7z" />
+
+    <!-- Lid -->
+    <path
+        android:fillColor="#3D2314"
+        android:pathData="M24,22h32v4h-32z" />
+    <!-- Straw -->
+    <path
+        android:fillColor="#B85C38"
+        android:pathData="M43,10h4v14h-4z" />
+</vector>
